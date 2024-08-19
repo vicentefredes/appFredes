@@ -1,0 +1,7 @@
+{
+  "name": "appFredes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
